@@ -6,7 +6,6 @@
 
 代码选择性讲解
 `
-![006tuqRIly1gf3mr4dcmij30jf0ijdhv](_v_images/20200524233545307_11189.jpg =400x)
 
 ## Field-form
 
@@ -17,8 +16,6 @@ React Performance First Form Component.
 * Field-form是antd v4.0的Form组件的底层组件
 
 ## 整体的逻辑架构
-
-![BV1rD4y1D7Kb?spm_id_from=333](./TIM图片20200603031944.png)
 
 大体逻辑如上
 
@@ -48,4 +45,4 @@ Form就会调用每个Field的onStoreChange来对Field进行操作.
 
 ### dispatch的action.type分别是两种
 
-* type===updateValue
+* type===updateValue  
