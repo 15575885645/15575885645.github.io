@@ -18,7 +18,7 @@ React Performance First Form Component.
 
 ## 整体的逻辑架构
 
-![BV1rD4y1D7Kb?spm_id_from=333](_v_images/20200603034609301_4213.png)
+![BV1rD4y1D7Kb?spm_id_from=333](./TIM图片20200603031944.png)
 
 大体逻辑如上
 
