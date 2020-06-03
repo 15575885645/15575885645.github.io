@@ -9,7 +9,7 @@ React Performance First Form Component.
 
 ## 整体的逻辑架构
 
-![https://github.com/15575885645/15575885645.github.io/blob/master/TIM%E5%9B%BE%E7%89%8720200603031944.png](https://github.com/15575885645/15575885645.github.io/blob/master/TIM%E5%9B%BE%E7%89%8720200603031944.png)
+![a](https://github.com/15575885645/15575885645.github.io/master/image/Field-form.jpg)
 
 大体逻辑如上
 
