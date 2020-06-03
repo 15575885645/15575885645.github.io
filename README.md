@@ -1,3 +1,4 @@
+
 # Field-form
 
 React Performance First Form Component.
@@ -8,7 +9,7 @@ React Performance First Form Component.
 
 ## 整体的逻辑架构
 
-![BV1rD4y1D7Kb?spm_id_from=333](./TIM图片20200603031944.png)
+![./TIM图片20200603031944.png](./TIM图片20200603031944.png)
 
 大体逻辑如上
 
