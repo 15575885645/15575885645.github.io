@@ -9,7 +9,7 @@ React Performance First Form Component.
 
 ## 整体的逻辑架构
 
-![a](./image/Field-form.jpg)
+![a](./image/Field-form.jpg?raw=true)
 
 大体逻辑如上
 
